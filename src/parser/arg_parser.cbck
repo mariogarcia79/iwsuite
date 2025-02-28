@@ -1,0 +1,16 @@
+
+
+struct p_args {
+	__u8            verbose;
+	__u8            command;
+	*char           if_name;
+};	
+
+void print_usage ( const char *p_name ) {
+	fprintf("Usage: %s <start|stop> [INTERFACE]\n", p_name);
+	fprintf("")
+}
+
+void parse ( int argc, char *argv ) {
+
+}
