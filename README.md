@@ -16,11 +16,11 @@ This suite contains:
 ## Building process
 First clone this repository: \
 `git clone https://github.com/mariogarcia79/iwsuite.git`\
-And then make the suite:\
+And then make the suite:
 ```
 $ cd iwsuite
 $ make
 ```
 
 # Docs
-For more docs, licensing and information, visit [readme](docs/README.md), [license](docs/LICENSE.md), and [usage](docs/USAGE.md).\
+For more docs, licensing and information, visit [readme](docs/README.md), [license](docs/LICENSE.md), and [usage](docs/USAGE.md).
