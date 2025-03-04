@@ -24,4 +24,4 @@ $ make
 ```
 
 # Docs
-For more docs, licensing and information, visit [readme](docs/README), [license](docs/LICENSE), and [usage](docs/USAGE).
+For more docs, licensing and information, visit [readme](docs/README.md), [license](docs/LICENSE.md), and [usage](docs/USAGE.md).
