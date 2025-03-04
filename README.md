@@ -1,7 +1,5 @@
 # Iwsuite
----
 ## Description 
----
 Iwsuite is a set of useful tools for performing a wide range of wireless attacks useful for WiFi security auditing.\\
 This suite is a pure-command-line toolset.
 This suite contains:
@@ -12,14 +10,11 @@ This suite contains:
 - Cracking.
 
 # Building
----
 ## Requirements
----
 ### For Debian and Debian-based machines:
 | wireless-tools | install via `sudo apt-get install wireless-tools` |
 
 ## Building process
----
 First clone this repository: \\
 `git clone https://github.com/mariogarcia79/iwsuite.git`\\
 And then make the suite:\\
@@ -29,5 +24,4 @@ $ make
 ```
 
 # Docs
----
 For more docs, licensing and information, visit [docs/README.md](docs/README.md), [docs/LICENSE.md](docs/LICENSE.md) and in general the [docs](docs) directory.
