@@ -24,4 +24,4 @@ $ make
 ```
 
 # Docs
-For more docs, licensing and information, visit [docs/README.md](docs/README.md), [docs/LICENSE.md](docs/LICENSE.md) and in general the [docs](docs) directory.
+For more docs, licensing and information, visit [readme](docs/README), [license](docs/LICENSE), and [usage](docs/USAGE).
